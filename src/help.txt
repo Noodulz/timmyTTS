@@ -1,0 +1,19 @@
+Hallo, I am Timmy the Toad! I can translate any text you'd like in over 20+ languages, identify the language of a text, and send text-to-speech messages in multiple languages.
+
+The languages available for TTS are arabic, chinese, chineseSP (simplified), chineseHK (Hong Kong), chineseTR (Taiwan), english, englishBR (British), englishAU (Australia), french, frenchCA (Canada), german, hebrew, hindi, indonesian, italian, japanese, korean, malay,portuguese, portuguesePT (Portugal), russian, spanish, spanishSP (Spain), swedish, tamil, thai, and vietnamese.   
+```
+# Specify the language you want to generate TTS in, and then your text
+t/speak vietnamese Đụ má mày!
+```
+The languages available for translating are arabic, chinese, chineseSP, chineseTR, english, french, french, german, hawaiian, hebrew, hindi, hmong, indonesian, italian, japanese, korean, malay, mongolian, portuguese, russian, spanish, tagalog, tamil, thai, and vietnamese. 
+```
+# Specify the text you want to translate first, and then the language you want to translate to.
+t/translate Hey, Arschkopf. japanese
+```
+The language of your text is automatically detected so there's no need to specify what language you're translating from. Also, the pronunciation as well, though at times it may default to English.
+
+The languages available for identifying languages are arabic, chinese, chineseSP, chineseTR, english, french, french, german, hawaiian, hebrew, hindi, hmong, indonesian, italian, japanese, korean, malay, mongolian, portuguese, russian, spanish, tagalog, tamil, thai, and vietnamese. 
+```
+t/identify good god what have I done
+```
+To trigger this help message, simply send t/help. Enjoy!
