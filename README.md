@@ -35,7 +35,7 @@ python3.6 -m pip install -r requirements.txt
 This bot uses the Google Translate API and the VoiceRSS API for TTS messages. This bot is also currently hosted via Heroku. 
 
 ## Demo
-TBA
+![demo](timmydemo.gif)
 
 ## Invite Link
 https://shorturl.at/rSTZ2
