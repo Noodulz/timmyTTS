@@ -32,7 +32,7 @@ This bot was specifically developed using Python 3.6, so it will only work under
 python3.6 -m pip install -r requirements.txt
 ```
 
-This bot uses the Google Translate API and the VoiceRSS API for TTS messages. 
+This bot uses the Google Translate API and the VoiceRSS API for TTS messages. This bot is also currently hosted via Heroku. 
 
 ## Demo
 TBA
