@@ -26,7 +26,7 @@ t/identify ハイププ
 For more help, trigger `t/help`
 
 ## Requirements
-This bot was specifically developed using Python 3.6, as there are difficult constraints with integrating the Discord API with the latest Python 3.x, so it will only work under 3.6 if intending to host. The modules used were discord.py, urllib, asyncio, wget, os, requests, and googletrans. 
+This bot was specifically developed using Python 3.6, so it will only work under 3.6 if intending to host. The modules used were discord.py, urllib, asyncio, wget, os, requests, and googletrans. 
 
 ```
 python3.6 -m pip install -r requirements.txt
