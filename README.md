@@ -3,7 +3,7 @@
 TimmyTTS is a text-to-speech bot that can generate and send audio files of speech synthesis in multiple languages. In addition, TimmyTTS can also translate text, and identify the language of a piece of text. 
 
 ## Supported Languages
-Languages supported include Arabic, Chinese, Cantonese, Traditional Chinese, English, French, German, Hebrew, Hindi, Indonesian, Italian, Japanese, Korean, Malay, Portuguese, Russian, Spanish, Swedish, Tagalog, Tamil, Thai and Vietnamese.
+Languages supported include Arabic, Simplified Chinese, Cantonese, Traditional Chinese, English, French, German, Hebrew, Hindi, Indonesian, Italian, Japanese, Korean, Malay, Portuguese, Russian, Spanish, Swedish, Tagalog, Tamil, Thai and Vietnamese.
 
 ## How to use
 The available commands are `t/speak`, `t/translate`, `t/identify`, and `t/help`. 
