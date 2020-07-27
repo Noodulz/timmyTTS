@@ -1,6 +1,7 @@
 # TimmyTTS
 ![toad](toad.png)
 TimmyTTS is a text-to-speech Discord bot that can generate and send audio files of speech synthesis in multiple languages. This does not require being in a voice channel at all as it generates and sends an mp3 file playing the speech instead. In addition, TimmyTTS can also translate text, and identify the language of the text. 
+
 ![demo](timmydemo.gif)
 
 ## Supported Languages
