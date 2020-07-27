@@ -1,6 +1,7 @@
 # TimmyTTS
 ![toad](toad.png)
 TimmyTTS is a text-to-speech Discord bot that can generate and send audio files of speech synthesis in multiple languages. This does not require being in a voice channel at all as it generates and sends an mp3 file playing the speech instead. In addition, TimmyTTS can also translate text, and identify the language of the text. 
+![demo](timmydemo.gif)
 
 ## Supported Languages
 Languages supported include Arabic, Simplified Chinese, Cantonese, Traditional Chinese, English, French, German, Hebrew, Hindi, Indonesian, Italian, Japanese, Korean, Malay, Portuguese, Russian, Spanish, Swedish, Tagalog, Tamil, Thai and Vietnamese.
@@ -33,9 +34,6 @@ python3.6 -m pip install -r requirements.txt
 ```
 
 This bot uses the Google Translate API and the VoiceRSS API for TTS messages. This bot is also currently hosted via Heroku. 
-
-## Demo
-![demo](timmydemo.gif)
 
 ## Invite Link
 https://shorturl.at/rSTZ2
