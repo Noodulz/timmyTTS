@@ -32,7 +32,7 @@ async def speak(context, *args):
         src = '{}'.format(' '.join(context.args[2:]))
         # Generates the parameters to append to the url used to send a wget request
         params = parse.urlencode({'hl': lang, 'src': src})
-        url = "http://api.voicerss.org/?key=e2c99f5f32a44c988ef3784609ea9325&c=MP3&f=48khz_16bit_stereo&" + params
+        url = "http://api.voicerss.org/?key=api-key&c=MP3&f=48khz_16bit_stereo&" + params
         tts = wget.download(url)
         # Downloads and sends mp3 file, then deletes the file afterwards to clear up space
         with open('download.wget', 'rb') as mp3:
