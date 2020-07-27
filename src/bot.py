@@ -12,7 +12,7 @@ from discord.ext.commands import Bot
 from discord.ext import commands 
 
 # Bot token
-TOKEN = 'NzM2NzYwNTQ1MjAxMzU2ODEz.Xxzfug.kU_HgHdzsOOsayzYqCEJqx6QcrI'
+TOKEN = 'token-here' 
 # Every command starts with t/ 
 BOT_PREFIX = 't/'
 bot = Bot(command_prefix=BOT_PREFIX)

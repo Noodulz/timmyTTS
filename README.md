@@ -34,8 +34,5 @@ This bot uses the Google Translate API and the VoiceRSS API for TTS messages.
 ## Demo
 TBA
 
-## How to host
-TBA
-
 ## Invite Link
-TBA
+shorturl.at/rSTZ2

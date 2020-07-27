@@ -1,7 +1,6 @@
-urllib
+discord.py==1.3.4
 asyncio
 wget
-os
 requests
 googletrans
 git+https://github.com/Rapptz/discord.py@rewrite
